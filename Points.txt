@@ -1,0 +1,10 @@
+npm init
+
+to run - node index.js
+
+
+npm i express  in level2
+
+npm i nodemon in level2
+npm i cors  in backend
+ npm i axios in frontend
